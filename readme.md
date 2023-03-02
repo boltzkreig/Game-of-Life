@@ -16,12 +16,13 @@ Run make (Make sure ncurses library, GCC and Makefile are installed)
 
      make
 	 
-Run the `Game-of-Life` executable. Optional argument can be used.
+Run the `Game-of-Life` executable. Optional argument can be used
+
 	./Game-of-Life [Probability] [FPS] [Alive] 
      
-Probability	= Initial Alive/Dead Ratio	(0.5)
-FPS			= Frame per Second	(12)
-Alive		= Character to Display Alive Cells	(&block)
+- Probability	= Initial Alive/Dead Ratio		( 0.5 )
+- FPS		= Frame per Second			( 12 )
+- Alive		= Character to Display Alive Cells	( █ )
 
 ***NOTE***
 1. Design for Unix-like system.
