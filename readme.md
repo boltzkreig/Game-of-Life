@@ -29,3 +29,10 @@ Run the `Game-of-Life` executable. Optional argument can be used
 2. Requires C++20
 3. The world size is defined by ternimal-window size. 100x300 is hard-coded, in case of larger screens repeation of cell occures. Increase as per requirement.
 4. Use Ctrl-C to Exit; Ctrl-S/Ctrl-Q to Pause/Unpause
+
+**ADDITIONAL**
+
+	Other Codes included that allows for :-
+	- General 1D Automata which takes argument of Wolfram Rule Notation
+	- Rule-110 automata
+	- Greenberg-Hastings Automata (2D) 
